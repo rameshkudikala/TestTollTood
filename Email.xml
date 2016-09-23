@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Email Suite">
+ <test name="Mail">
+   <classes>
+        <class name="com.xiim.util.SendMail" /> 
+    </classes>
+  </test>
+
+</suite>

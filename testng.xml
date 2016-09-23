@@ -1,0 +1,9 @@
+<suite name="XiiM Suite">
+
+  <suite-files>
+  <suite-file path="./SignUp.xml" />
+     
+<!-- 	<suite-file path="./Email.xml" /> -->
+	
+    </suite-files>
+</suite>
